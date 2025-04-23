@@ -51,6 +51,8 @@ dependencies:
   logger: ^1.0.0
   animator: ^3.3.0
   timeago: ^3.7.0
+  firebase_crashlytics: ^4.3.5
+  firebase_analytics: ^11.4.5
 
 
 
